@@ -3,9 +3,9 @@ Refer to each week's directory for tasks and resources
 
 # Uploading code to GitHub
 <ol>
-  <li>Make your own repository and name it like "<your_name><underscore><reg_no>"</li>
-  <li>Within that repository organize your  code seperately into different folders named "week <week_no>"</li>
-  <li>Just upload the code (.cpp/.java files only) and no need to include i/o files</li
+  <li>Make your own repository and name it like "name_regno"</li>
+  <li>Within that repository organize your  code seperately into different folders named "week <i>week_no</i>"</li>
+  <li>Just upload the code (.cpp/.java files only) and no need to include i/o files</li>
 </ol>
 
 ### Learn all about git and GitHub from here:
