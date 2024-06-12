@@ -49,7 +49,7 @@ Java Collections:
 ✏️ https://www.youtube.com/watch?v=FPu9Uld7W-E
 
 
-<h1>Practice<h1>
+<h1>Practice</h1>
 Hackerrank links for language proficiency
 
 C++:
