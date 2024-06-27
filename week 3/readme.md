@@ -1,5 +1,12 @@
 # Week 3:
 
+### Tasks:
+<ol>
+ <li>Hackerrank 5⭐</li>
+ <li>Hashing and Searching topics</li>
+ <li>Assignment</li>
+</ol>
+
  ## Hashing:
  <ul>
    <li>https://www.youtube.com/watch?v=KEs5UyBJ39g </li>
